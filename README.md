@@ -14,5 +14,5 @@
 
 Apaixonado por tecnologia,
 
-### Últimos vídeos:
+### Última atualização do meu aplicativo:
 - [Aplicativo Codes Droid](https://youtube.com/@RickDroidDev)<br/>
