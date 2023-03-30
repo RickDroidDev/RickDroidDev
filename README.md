@@ -30,5 +30,5 @@
 Apaixonado por tecnologia,
 
 ### Última atualização do meu aplicativo:
-- [Aplicativo Codes Droid](https://github.com/RickDroidDev/ARQUIVO-APK/blob/44f19c5c79db1b155630601c739f5fa550a923ff/Codes%20Droid_1.0%20(1).apk)<br/>
+- Aplicativo Codes Droid (em breve)
 - [Nota de atualização](https://github.com/RickDroidDev/ARQUIVO-APK/blob/27a7a5a5aa714c334495ac84184603ee33029eba/Nota%20de%20atualiza%C3%A7%C3%A3o.md)<br/>
